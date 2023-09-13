@@ -61,7 +61,7 @@ function Login() {
                     <p>
                         If you are not Sign up ?{" "}
                         <span>
-                            <Link to="/signup">Sign up</Link>
+                            <Link to="/">Sign up</Link>
                         </span>
                     </p>
                 </div>
