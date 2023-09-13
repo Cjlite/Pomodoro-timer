@@ -1,0 +1,10 @@
+.home-cointainer {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(to right, #9900ff, #cc80ff);
+}
+
+h2 {
+    margin-top: 3rem;
+}
